@@ -1,0 +1,13 @@
+#myCanvas{
+    border-width:5px;
+    border-color:turqoise;
+    border-style:inset;
+    background-image:url("My ai home.jpg")
+  }
+  
+#h1{
+    font-family: 'PT Sans Narrow', sans-serif;
+    }
+#h3{
+      font-family: 'PT Sans Narrow', sans-serif;
+      }
